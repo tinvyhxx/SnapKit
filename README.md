@@ -1,5 +1,5 @@
 <img src="http://snapkit.io/images/banner.jpg" alt="" />
-addredd https://github.com/tinvyhxx/SnapKit.git
+##addredd https://github.com/tinvyhxx/SnapKit.git
 SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 
 [![Build Status](https://travis-ci.org/SnapKit/SnapKit.svg)](https://travis-ci.org/SnapKit/SnapKit)
